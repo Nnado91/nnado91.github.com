@@ -63,6 +63,10 @@ th{
     display: none;
 }
 
+tr:hover{
+    background: #65c57eb0;
+}
+
 .actions{
     position: absolute;
     top: 1em;
