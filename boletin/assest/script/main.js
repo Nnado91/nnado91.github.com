@@ -20,7 +20,7 @@ cerrar.forEach(function(cerrar){
 
         //Retrasa el direccionamiento al index
         setTimeout(function(){
-            location.href = "/";
+            location.href = "/boletin";
         }, 700)
 
         return false;
